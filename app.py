@@ -14,4 +14,5 @@ st.header('Enter second number')
 number2 = st.number_input('insert a number')
 st.write('Second number is', number2)
 
+#output
 st.write('Sum of numbers', number1 + number2)
